@@ -1,2 +1,7 @@
 # curvature-evol-stellar-cycle
-Primary results
+
+Link to the Paper: *Will be updated soon*
+
+Authors: [Shashwat Singh](https://github.com/SSingh087) , [Saurabh Sharma](https://github.com/sharmasaurabh24), [Shwetank Shekhar](https://github.com/aprendiz000)
+
+## Primary Results 
